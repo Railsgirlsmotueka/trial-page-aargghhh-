@@ -30,11 +30,38 @@
 
     <Motueka Friday 6 & Saturday 7 November 2015>
      
-    <title>Wellington March 2014</title>
+    <title>Motueka November 2015</title>
       
     <!--  Write a metatext. This is what will show on the Facebook page and for instance search engines. -->
 
-    <meta name="description" content="Rails Girls goes to Motueka: join the two-day crash-course to the exciting world of building web applications with Ruby on Rails.">
+    <meta name="description" content="Rails Girls goes to Motueka: join the two-day crash-course to the exciting world of building web applications with Ruby on Rails.
+    Kia ora!
+
+Rails Girls comes to Motueka! During this free two-day workshop we'll dive into the magical world of Ruby on Rails.
+
+We are running a workshop during the weekend of November 6/7.
+
+All of the material is available for you to learn at home by yourself but Rails Girls offers a casual and friendly environment to learn with others and a good tutor to student ratio to help get past some tricky areas.
+
+Applications will be open 24 August 2015! Sign up for our email list and we'll let you know when we hold another workshop.
+
+ 
+You learn designing, prototyping and coding with the help from our coaches. We introduce you to Ruby on Rails as one of the open-source web developing frameworks.
+
+You need your own laptop, curiosity and a sprinkle of imagination! Very very limited laptops available to loan for the weekend - please indicate on your application form if you need one.
+
+Want to help? Send us an email if you'd like to be involved - email us.
+
+FAQ
+
+How much does the workshop cost? Nothing, it's free! You just need to be excited!
+
+Who is this aimed at? Rails Girls Motueka is open to all those who identify as women or girls with basic knowledge of working with a computer. Currently, we are only taking people who have already left school, as we will be holding a separate school aged event.
+
+Can men attend? Yes, but you need to be accompanied by an interested lady. Also, girls are given a priority.
+
+Do you have a code of conduct? Yes - it is here. We expect attendees, coaches, and sponsor representatives to behave respectfully to make sure everyone has a great time.">
+
     <meta name="author" content="Rails Girls">
 
     <link rel="shortcut icon" href="/favicon.png">
